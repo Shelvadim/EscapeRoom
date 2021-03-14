@@ -1,0 +1,2 @@
+C:\Users\xxx\Documents\Unreal Projects\EscapeRoom\Intermediate\Build\Win64\UE4Editor\Development\EscapeRoom\Definitions.EscapeRoom.h
+C:\Users\xxx\Documents\Unreal Projects\EscapeRoom\Source\EscapeRoom\EscapeRoom.h
